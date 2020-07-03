@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DIUproject/static/css/main.5d1dd0a9.chunk.css",
+    "main.js": "/DIUproject/static/js/main.a9fe5dcb.chunk.js",
+    "main.js.map": "/DIUproject/static/js/main.a9fe5dcb.chunk.js.map",
+    "runtime-main.js": "/DIUproject/static/js/runtime-main.439aac17.js",
+    "runtime-main.js.map": "/DIUproject/static/js/runtime-main.439aac17.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/DIUproject/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d8f4b5bc.chunk.js": "/DIUproject/static/js/2.d8f4b5bc.chunk.js",
+    "static/js/2.d8f4b5bc.chunk.js.map": "/DIUproject/static/js/2.d8f4b5bc.chunk.js.map",
+    "index.html": "/DIUproject/index.html",
+    "precache-manifest.72e369b3bb1e801f69f49d27b3a51fd0.js": "/DIUproject/precache-manifest.72e369b3bb1e801f69f49d27b3a51fd0.js",
+    "service-worker.js": "/DIUproject/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/DIUproject/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5d1dd0a9.chunk.css.map": "/DIUproject/static/css/main.5d1dd0a9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.439aac17.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d8f4b5bc.chunk.js",
+    "static/css/main.5d1dd0a9.chunk.css",
+    "static/js/main.a9fe5dcb.chunk.js"
+  ]
+}
